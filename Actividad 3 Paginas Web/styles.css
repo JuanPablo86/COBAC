@@ -41,20 +41,48 @@ h4{
 
 p{
     text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 ul{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 q{
     text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 20px;
+    font-size: 30px;
+}
+
+.imagen img{
+    width: 600px;
+    height: 450px;
+    margin-left: 700px;
+    float:inline-end;
+}
+
+blockquote{
+    text-align: left;
+    margin-left: 0px;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+a{
+    color: rgb(223, 33, 33);
+    font-size: 30px;
+}
+
+.imagen_2 img{
+    width: 600px;
+    height: auto;
+    margin-left: 700px;
+    float:inline-end;
 }
