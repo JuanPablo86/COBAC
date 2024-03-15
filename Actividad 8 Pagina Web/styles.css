@@ -1,0 +1,36 @@
+h1.head{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+p.head{
+    text-align: center;
+    font-size: 25px;
+    position:relative;
+    font-weight: bold;
+}
+
+img.head{
+    width: 200px;
+    height: 190px;
+    position: absolute;
+    top: 10px;
+    right:auto;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+p.experience{
+    font-size: 20px;
+}
