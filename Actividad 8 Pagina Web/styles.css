@@ -25,12 +25,31 @@ body{
     background-size: cover;
 }
 
+img.semestre_2 {
+    width: 50%;
+    float: right;
+    padding-left: 20px;
+    position: absolute;
+    top: auto;
+    height: 280px;
+}
+
+p.semestre_2 {
+    width: 50%;
+    float: left;
+    padding-right: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
 h2{
     text-align: center;
     font-size: 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    clear: both;
 }
 
-p.experience{
+p{
     font-size: 20px;
+    text-align: justify;
 }
